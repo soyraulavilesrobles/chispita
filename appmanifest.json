@@ -1,0 +1,16 @@
+{
+	"name": "CORSE CHISPITA CORRE",
+	"short_name": "CORSE CHISPITA CORRE",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "237x211",
+			"type": "image/png"
+		}
+	]
+}
